@@ -2,7 +2,7 @@
 
 Выполнено задание по изменению связи моделей в Django.
 
-### Что сделано
+### Выполнено
 
 * Связь между моделями **Student** и **Teacher** изменена с `ForeignKey` на `ManyToManyField`.
 * Добавлен параметр `related_name='students'`.
